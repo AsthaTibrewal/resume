@@ -1,0 +1,18 @@
+body
+{
+    position: relative;
+}
+.form{
+    position:absolute;
+    display:inline-block;
+    left: 80px;
+  position: fixed;
+
+}
+.image
+{
+    
+    left:300px ;
+ position: fixed;
+   
+}
